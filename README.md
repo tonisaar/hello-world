@@ -1,2 +1,6 @@
 # hello-world
-nothing interesting here. tutorial repo it is, no joke
+nothing interesting here, go away.
+tutorial repo it is, no joke.
+creating an issue.
+closing an issue.
+mergng a pull request.
