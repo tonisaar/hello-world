@@ -1,3 +1,2 @@
 # hello-world
-tutorial repo
-tutorial repo it is, no joke
+nothing interesting here. tutorial repo it is, no joke
