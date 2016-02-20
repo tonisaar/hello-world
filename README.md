@@ -8,11 +8,11 @@ i seem to hate markdown already.
 never seen a formatted readme before, always been plain text.
 
 create an issue.
-do something about it.
+fix in a branch.
 close.
 
 one
 
-two oranges
+two apples
 
 three
